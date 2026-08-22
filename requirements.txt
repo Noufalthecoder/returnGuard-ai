@@ -1,0 +1,6 @@
+streamlit
+pandas
+networkx
+python-louvain
+plotly
+faker

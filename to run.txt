@@ -1,0 +1,3 @@
+cd C:\Users\rohan\Downloads\razorpay-ai-risk-manager
+
+streamlit run app.py
